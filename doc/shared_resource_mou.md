@@ -46,7 +46,7 @@ or any other stipulations by OWNER.
 ## Best Effort Basis
 
 1.  OWNER is providing RESOURCE is on a best-effort basis.
-1.  OWNER will try to follow good practices with for providing a shared resource.
+1.  OWNER will try to follow good practices for providing a shared resource.
 
 ## Borrowing
 
