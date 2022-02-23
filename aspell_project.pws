@@ -1,9 +1,12 @@
-personal_ws-1.1 en 28 
+personal_ws-1.1 en 33 
+Addendums
+BORROWER's
 DEBs
 EL
 EditorConfig
 IAS
 MERCHANTABILITY
+MoU
 Pipenv
 RHEL
 RPMs
@@ -16,6 +19,8 @@ edu
 fakeroot
 gmk
 ias
+mou
+mv
 perltidy
 pipenv
 postinst

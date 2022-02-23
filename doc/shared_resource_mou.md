@@ -9,11 +9,11 @@
 1.  USER - an individual granted permission to use RESOURCE on behalf of BORROWER.
 
 
-## Applicability and Superceding
+## Applicability and Superseding
 
-1.  BORROWING AGREEMENT shall take precidence in any potential conflict or confusing situation.
+1.  BORROWING AGREEMENT shall take precedence in any potential conflict or confusing situation.
 1.  Any disputes related to conflicting clauses are to be resolved at the
-sole discrestion of OWNER of RESOURCE.
+sole discretion of OWNER of RESOURCE.
 
 ## Duration
 
@@ -32,11 +32,11 @@ of RESOURCE.
 1.  RESOURCE shall be used safely.
 1.  RESOURCE shall be used in accordance with all applicable law.
 1.  RESOURCE is provided "AS IS" without warranty of any kind, either expressed or implied,
-	including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+	including, but not limited to, the implied warranties of MERCHANTABILITY and fitness for a particular purpose.
 
 ### Acceptable Use - OWNER
 
-1.  Addendums to ACCEPTABLE USE by OWNER shall apply in precidence here.
+1.  Addendums to ACCEPTABLE USE by OWNER shall apply in precedence here.
 
 ### Acceptable Use - BORROWER
 
@@ -46,7 +46,7 @@ or any other stipulations by OWNER.
 ## Best Effort Basis
 
 1.  OWNER is providing RESOURCE is on a best-effort basis.
-1.  OWNER will try to follow good practicies with for providing a shared resource.
+1.  OWNER will try to follow good practices with for providing a shared resource.
 
 ## Borrowing
 
