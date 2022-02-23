@@ -2,7 +2,7 @@
 
 ## Definitions
 
-1.  BORROWING AGREEMENT - this agreement
+1.  BORROWING AGREEMENT - this agreement.
 1.  RESOURCE - what's being shared.
 1.  OWNER - the organization or individual that owns RESOURCE.
 1.  BORROWER - an organization or individual granted permission to use RESOURCE.
@@ -13,7 +13,7 @@
 
 1.  BORROWING AGREEMENT shall take precedence in any potential conflict or confusing situation.
 1.  Any disputes related to conflicting clauses are to be resolved at the
-sole discretion of OWNER of RESOURCE.
+sole discretion of OWNER.
 
 ## Duration
 
